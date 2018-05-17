@@ -233,3 +233,33 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Ser
 C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\AutoMapper.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\AutoMapper.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\AutoMapper.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services\obj\Debug\VideoStore.Services.pdb

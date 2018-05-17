@@ -40,3 +40,12 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Enti
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

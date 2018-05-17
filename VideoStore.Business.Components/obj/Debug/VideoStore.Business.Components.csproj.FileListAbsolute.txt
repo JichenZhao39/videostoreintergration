@@ -73,3 +73,28 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components\obj\Debug\Vid
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Business.Components\obj\Debug\VideoStore.Business.Components.pdb

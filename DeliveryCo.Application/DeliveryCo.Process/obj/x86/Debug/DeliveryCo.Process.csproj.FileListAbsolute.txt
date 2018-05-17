@@ -50,3 +50,32 @@ C:\Users\David\Desktop\GroupProject\DeliveryCo.Application\DeliveryCo.Process\ob
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Components.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Services.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Business.Entities.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb

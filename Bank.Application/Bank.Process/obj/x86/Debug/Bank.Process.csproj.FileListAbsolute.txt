@@ -45,3 +45,27 @@ C:\Users\David\Desktop\GroupProject\Bank.Application\Bank.Process\obj\x86\Debug\
 C:\Users\David\Desktop\GroupProject\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
 C:\Users\David\Desktop\GroupProject\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Services.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Components.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Business.Entities.dll.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Services.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\bin\Debug\Bank.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Bank.Application\Bank.Process\obj\x86\Debug\Bank.Process.pdb

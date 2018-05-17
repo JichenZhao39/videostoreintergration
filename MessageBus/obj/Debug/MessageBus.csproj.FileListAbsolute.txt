@@ -1,0 +1,9 @@
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\bin\Debug\MessageBus.exe.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\bin\Debug\MessageBus.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\bin\Debug\MessageBus.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\obj\Debug\MessageBus.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\obj\Debug\MessageBus.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\obj\Debug\MessageBus.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\MessageBus\obj\Debug\MessageBus.pdb

@@ -23,3 +23,9 @@ C:\Users\David\Desktop\GroupProject\Common\bin\Debug\Common.pdb
 C:\Users\David\Desktop\GroupProject\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\David\Desktop\GroupProject\Common\obj\Debug\Common.dll
 C:\Users\David\Desktop\GroupProject\Common\obj\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\obj\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\Common\obj\Debug\Common.pdb

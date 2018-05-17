@@ -108,3 +108,13 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Services.Interfaces\obj\Debug\Vid
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb

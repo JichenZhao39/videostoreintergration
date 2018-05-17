@@ -54,3 +54,13 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\V
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\Common.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\Common.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.pdb

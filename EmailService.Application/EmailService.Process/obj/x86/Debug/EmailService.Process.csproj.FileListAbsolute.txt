@@ -39,3 +39,31 @@ C:\Users\David\Desktop\GroupProject\EmailService.Application\EmailService.Proces
 C:\Users\David\Desktop\GroupProject\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
 C:\Users\David\Desktop\GroupProject\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.dll
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.pdb
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.xml
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csprojResolveAssemblyReference.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csproj.CoreCompileInputs.cache
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+E:\Sydney Uni\S2\5348\groupwork\videostoreintergration\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb

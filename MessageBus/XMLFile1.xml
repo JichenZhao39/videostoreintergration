@@ -1,0 +1,124 @@
+﻿<wsdl:definitions name="SubscriptionService" targetNamespace="http://tempuri.org/">
+  −
+  <wsp:Policy wsu:Id="NetTcpBinding_ISubscriptionService_policy">
+    −
+    <wsp:ExactlyOne>
+      −
+      <wsp:All>
+        <msb:BinaryEncoding/>
+        −
+        <sp:TransportBinding>
+          −
+          <wsp:Policy>
+            −
+            <sp:TransportToken>
+              −
+              <wsp:Policy>
+                −
+                <msf:WindowsTransportSecurity>
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            −
+            <sp:AlgorithmSuite>
+              −
+              <wsp:Policy>
+                <sp:Basic256/>
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            −
+            <sp:Layout>
+              −
+              <wsp:Policy>
+                <sp:Strict/>
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing/>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  −
+  <wsdl:types>
+    −
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:9009/SubscriptionService/mex?xsd=xsd0" namespace="http://tempuri.org/"/>
+      <xsd:import schemaLocation="http://localhost:9009/SubscriptionService/mex?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+    </xsd:schema>
+  </wsdl:types>
+  −
+  <wsdl:message name="ISubscriptionService_Subscribe_InputMessage">
+    <wsdl:part name="parameters" element="tns:Subscribe"/>
+  </wsdl:message>
+  −
+  <wsdl:message name="ISubscriptionService_Subscribe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SubscribeResponse"/>
+  </wsdl:message>
+  −
+  <wsdl:message name="ISubscriptionService_Unsubscribe_InputMessage">
+    <wsdl:part name="parameters" element="tns:Unsubscribe"/>
+  </wsdl:message>
+  −
+  <wsdl:message name="ISubscriptionService_Unsubscribe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UnsubscribeResponse"/>
+  </wsdl:message>
+  −
+  <wsdl:portType name="ISubscriptionService">
+    −
+    <wsdl:operation name="Subscribe">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISubscriptionService/Subscribe" message="tns:ISubscriptionService_Subscribe_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/ISubscriptionService/SubscribeResponse" message="tns:ISubscriptionService_Subscribe_OutputMessage"/>
+    </wsdl:operation>
+    −
+    <wsdl:operation name="Unsubscribe">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISubscriptionService/Unsubscribe" message="tns:ISubscriptionService_Unsubscribe_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/ISubscriptionService/UnsubscribeResponse" message="tns:ISubscriptionService_Unsubscribe_OutputMessage"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  −
+  <wsdl:binding name="NetTcpBinding_ISubscriptionService" type="tns:ISubscriptionService">
+    <wsp:PolicyReference URI="#NetTcpBinding_ISubscriptionService_policy"/>
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp"/>
+    −
+    <wsdl:operation name="Subscribe">
+      <soap12:operation soapAction="http://tempuri.org/ISubscriptionService/Subscribe" style="document"/>
+      −
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      −
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    −
+    <wsdl:operation name="Unsubscribe">
+      <soap12:operation soapAction="http://tempuri.org/ISubscriptionService/Unsubscribe" style="document"/>
+      −
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      −
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  −
+  <wsdl:service name="SubscriptionService">
+    −
+    <wsdl:port name="NetTcpBinding_ISubscriptionService" binding="tns:NetTcpBinding_ISubscriptionService">
+      <soap12:address location="net.tcp://localhost:9011/SubscriptionService"/>
+      −
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:9011/SubscriptionService</wsa10:Address>
+        −
+        <Identity>
+          <Upn>PC-4E16-0\!msla2391</Upn>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
